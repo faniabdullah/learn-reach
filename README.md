@@ -1,2 +1,2 @@
-# learn ReachJS
-course ReachJS
+# learn ReactJS
+course ReactJS
